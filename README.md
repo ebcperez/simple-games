@@ -1,1 +1,1 @@
-# simple-games
+simple java games
