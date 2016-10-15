@@ -1,1 +1,1 @@
-simple java games
+simple games library
